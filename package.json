@@ -1,0 +1,23 @@
+{
+  "name": "renamer-bot",
+  "version": "1.0.0",
+  "description": "A Bot that adds caption from video filename",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmcho/renamer-bot.git"
+  },
+  "author": "AhmCho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmcho/renamer-bot/issues"
+  },
+  "homepage": "https://github.com/ahmcho/renamer-bot#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "telegraf": "^4.4.0"
+  }
+}
